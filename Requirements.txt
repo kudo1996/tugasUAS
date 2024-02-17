@@ -1,0 +1,6 @@
+Library yang digunakan oleh kelompok kami :
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Streamlit
+5. Seaborn
